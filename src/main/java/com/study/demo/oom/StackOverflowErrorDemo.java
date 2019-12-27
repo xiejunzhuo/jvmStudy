@@ -9,7 +9,7 @@ package com.study.demo.oom;
  * @version 1.0
  * @date 2019/12/27 21:09
  */
-public class Client {
+public class StackOverflowErrorDemo {
     public static void main(String[] args) {
         genObject();
     }

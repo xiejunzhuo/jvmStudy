@@ -5,6 +5,7 @@ package com.study.demo.oom;
  * Exception in thread "main" java.lang.StackOverflowError
  *
  * 递归调用，深度调用导致吧栈撑爆了
+ * 默认栈大小在512-1024K之间
  * @author 谢君卓
  * @version 1.0
  * @date 2019/12/27 21:09

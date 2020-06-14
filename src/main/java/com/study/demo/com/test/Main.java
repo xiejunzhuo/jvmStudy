@@ -3,7 +3,7 @@ package com.study.demo.com.test;
 import java.util.Scanner;
 
 /**
- * @author 谢君卓
+ * @author 李建成
  * @version 1.0
  * @date 2020/1/12 17:27
  */
